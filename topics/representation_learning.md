@@ -4,6 +4,10 @@
 
 ## Perception
 This part mainly focuses on vision-related tasks.
+- Gaussian Splatting
+  - ECCV 2024, A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis, [arXiv](https://arxiv.org/abs/2311.12897), [Code](https://github.com/raven38/EfficientDynamic3DGaussian).
+    - To Summarize.
+
 
 ## Control
 
