@@ -7,3 +7,4 @@ ___
 
 ## Topics
 - [Representation Learning for Agents](topics/representation_learning.md)
+- [Cross Embodiment](topics/cross_embodiment.md)

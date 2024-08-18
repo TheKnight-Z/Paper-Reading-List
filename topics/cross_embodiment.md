@@ -1,0 +1,2 @@
+- GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization, [arXiv](https://arxiv.org/abs/2407.15002), [website](https://get-zero-paper.github.io/), [codebase](https://github.com/real-stanford/get_zero)
+- Body Transformer: Leveraging Robot Embodiment for Policy Learning, [arXiv](https://arxiv.org/abs/2408.06316), [website](https://sferrazza.cc/bot_site/), [codebase](https://github.com/carlosferrazza/BodyTransformer)

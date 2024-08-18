@@ -19,7 +19,12 @@ Including perception, decision, dynamics and control etc., everything that an ag
 - RePo: Resilient Model-Based Reinforcement Learning by Regularizing Posterior Predictability, [arXiv](https://arxiv.org/abs/2309.00082), [website page](https://zchuning.github.io/repo-website/)
   - Main: learn the dynamics and reward based on $z_t$ which is compressed from $x_t = h(o_t)$ by using posterior $p(z_{t+1}|z_t,a_t,x_{t+1})$; test-time adaptation needs further investigation
   - Lessons: Lower bound for reward prediction and upper bound for dynamics compression; How can we solve the task-relevant stochasticity?
+- ICML 2024, HarmonyDream: Task Harmonization Inside World Models, [arXiv](https://arxiv.org/abs/2310.00344), [codebase](https://github.com/thuml/HarmonyDream?tab=readme-ov-file)
+ - Main: Balance the reward modeling loss, dynamics loss and observation loss in world model learning. Get this conclusion empirically without theory analysis.
+
+
 
 **To Read**: 
 
 1. [CoRL 2023 LEAP workshop](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Workshop/LEAP#tab-accept-oral)
+2. Unifying 3D Representation and Control of Diverse Robots with a Single Camera
